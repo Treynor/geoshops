@@ -1,0 +1,859 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-04-16T20:45:13Z",
+    "timestamp_areas_base": "2022-04-16T20:28:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 281212711,
+      "lat": 51.7612283,
+      "lon": -1.5643953,
+      "tags": {
+        "name": "A K Timms",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 484793354,
+      "lat": 51.1902809,
+      "lon": -0.6072571,
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1134045681,
+      "lat": 52.8147328,
+      "lon": -2.1156574,
+      "tags": {
+        "brand": "Travis Perkins",
+        "brand:wikidata": "Q2450664",
+        "brand:wikipedia": "en:Travis Perkins",
+        "name": "Travis Perkins",
+        "shop": "doityourself",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1366729360,
+      "lat": 50.8494061,
+      "lon": -0.9933619,
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1577794423,
+      "lat": 52.4801459,
+      "lon": -0.4716059,
+      "tags": {
+        "addr:city": "Oundle",
+        "addr:country": "GB",
+        "addr:housenumber": "38",
+        "addr:postcode": "PE8 4EF",
+        "addr:street": "West Street",
+        "name": "Coles Building Supplies",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1772965949,
+      "lat": 50.4514928,
+      "lon": -4.4863042,
+      "tags": {
+        "name": "Bradfords",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1772965950,
+      "lat": 50.4547914,
+      "lon": -4.5403928,
+      "tags": {
+        "name": "Richards",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "website": "https://www.richardsbuildersmerchants.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2096557651,
+      "lat": 51.3326093,
+      "lon": -2.205205,
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2525938409,
+      "lat": 51.0185776,
+      "lon": -2.1876499,
+      "tags": {
+        "addr:postcode": "SP7 9HD",
+        "addr:street": "Littledown",
+        "name": "Travis Perkins",
+        "phone": "+44 1747 852772",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "website": "https://www.travisperkins.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3202307360,
+      "lat": 51.6409128,
+      "lon": -0.0345367,
+      "tags": {
+        "entrance": "main",
+        "name": "Meridian Building Plastics Ltd",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "website": "http://www.meridianbp.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3874700882,
+      "lat": 54.5317138,
+      "lon": -1.5501008,
+      "tags": {
+        "addr:city": "Darlington",
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3899850255,
+      "lat": 52.6394696,
+      "lon": -1.1172021,
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3940770010,
+      "lat": 53.0189372,
+      "lon": -1.331943,
+      "tags": {
+        "name": "C Fletcher",
+        "shop": "trade",
+        "source": "survey",
+        "trade": "building_supplies",
+        "website": "http://www.fletchers-timber.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3958876106,
+      "lat": 51.4448398,
+      "lon": -0.3383944,
+      "tags": {
+        "addr:city": "Twickenham",
+        "addr:housenumber": "1",
+        "addr:street": "Heathlands Close",
+        "name": "Hitchcock & King",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4026152704,
+      "lat": 54.4122463,
+      "lon": -1.7452654,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:street": "Racecourse Road",
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4643132366,
+      "lat": 52.0831853,
+      "lon": 1.1137846,
+      "tags": {
+        "addr:city": "Ipswich",
+        "addr:housenumber": "12",
+        "addr:postcode": "IP1 5NP",
+        "addr:street": "Goddard Road",
+        "name": "EWIStore",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "website": "https://ewistore.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4775264915,
+      "lat": 50.6934078,
+      "lon": -1.2893567,
+      "tags": {
+        "addr:city": "Newport",
+        "addr:country": "GB",
+        "addr:postcode": "PO30 1HQ",
+        "addr:street": "Medina Avenue",
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "fhrs:id": "742163",
+        "level": "0",
+        "name": "Jewson",
+        "shop": "trade",
+        "survey:date": "2020-01-13",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5037622216,
+      "lat": 51.1092099,
+      "lon": -0.8654191,
+      "tags": {
+        "addr:city": "Bordon",
+        "addr:housenumber": "Unit 60",
+        "addr:postcode": "GU35 9QF",
+        "addr:street": "Woolmer Trading Estate",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "brand:wikipedia": "en:Screwfix",
+        "building:levels": "1",
+        "name": "Screwfix",
+        "opening_hours": "Mo-Fr 087:00-20:00; Sa 07:00-18:00; Su 09:00-16:00",
+        "operator": "Screwfix",
+        "shop": "doityourself",
+        "trade": "building_supplies",
+        "website": "https://www.screwfix.com/jsp/tradeCounter/tradeCounterDetailsPage.jsp?id=486"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5119218766,
+      "lat": 50.6963115,
+      "lon": -1.2976259,
+      "tags": {
+        "addr:city": "Newport",
+        "addr:country": "GB",
+        "addr:housenumber": "43-54",
+        "addr:postcode": "PO30 1RT",
+        "addr:street": "Trafalgar Road",
+        "alt_name": "Moreys",
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "fhrs:id": "689928",
+        "name": "Jewson",
+        "shop": "trade",
+        "source:addr": "FHRS Open Data",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5217122060,
+      "lat": 51.2050345,
+      "lon": -3.4674383,
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5241788306,
+      "lat": 53.9891892,
+      "lon": -1.0990393,
+      "tags": {
+        "addr:city": "York",
+        "addr:housenumber": "Unit 1",
+        "addr:postcode": "YO30 4WU",
+        "addr:street": "Bleriot Way",
+        "name": "Eurocell",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5351404386,
+      "lat": 54.1976909,
+      "lon": -3.0846493,
+      "tags": {
+        "addr:city": "Ulverston",
+        "addr:postcode": "LA12 7JZ",
+        "addr:street": "Canal Street",
+        "name": "Lakeland Aggregates",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5435868337,
+      "lat": 53.3809867,
+      "lon": -1.4269168,
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "name": "Jewson",
+        "shop": "doityourself",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5523572920,
+      "lat": 51.0434384,
+      "lon": 0.183355,
+      "tags": {
+        "name": "Jewsons",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5523572922,
+      "lat": 51.0442673,
+      "lon": 0.1851774,
+      "tags": {
+        "name": "Parker Building Supplies",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5567532570,
+      "lat": 51.7175656,
+      "lon": -0.8416651,
+      "tags": {
+        "name": "Blanchford",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "website": "https://www.blanchford.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5677894083,
+      "lat": 53.9894781,
+      "lon": -1.0924998,
+      "tags": {
+        "name": "Garasheds",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5827269079,
+      "lat": 51.1600091,
+      "lon": 0.2946272,
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "name": "Jewson",
+        "shop": "doityourself",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5939137967,
+      "lat": 51.1993364,
+      "lon": 0.0680441,
+      "tags": {
+        "name": "Jewsons",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6044334409,
+      "lat": 51.5604785,
+      "lon": -0.0012486,
+      "tags": {
+        "name": "C&S",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6053388240,
+      "lat": 52.6212937,
+      "lon": 1.3014939,
+      "tags": {
+        "craft": "builder",
+        "name": "K&S Home Improvements",
+        "note": "What type should this tag be? It's a builders yard rather than a shop. \nModified to craft builder, remove this note is this is fine",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6081600579,
+      "lat": 53.3198236,
+      "lon": -2.2382885,
+      "tags": {
+        "brand": "Travis Perkins",
+        "brand:wikidata": "Q2450664",
+        "brand:wikipedia": "en:Travis Perkins",
+        "name": "Travis Perkins",
+        "shop": "doityourself",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6431741684,
+      "lat": 53.4777067,
+      "lon": -2.2198304,
+      "tags": {
+        "addr:city": "Manchester",
+        "addr:country": "GB",
+        "addr:housenumber": "24",
+        "addr:postcode": "M1 2NP",
+        "addr:street": "Gidding Road",
+        "name": "IBB Building Materials",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6796061449,
+      "lat": 52.2065595,
+      "lon": 1.5910944,
+      "tags": {
+        "addr:city": "Leiston",
+        "addr:postcode": "IP16 4LW",
+        "name": "Coastal Building Supplies",
+        "opening_hours": "Mo-Fr 07:30-17:00; Sa 08:00-12:00",
+        "opening_hours:covid19": "same",
+        "phone": "+44 1728 833453",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "website": "http://www.coastalbuildingsupplies.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7177561083,
+      "lat": 51.883071,
+      "lon": -0.4361326,
+      "tags": {
+        "addr:city": "Luton",
+        "addr:country": "GB",
+        "addr:postcode": "LU1 1SP",
+        "addr:street": "Dallow Road",
+        "addr:suburb": "Dalroad Industrial Estate",
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "fhrs:authority": "Luton",
+        "fhrs:id": "738347",
+        "fhrs:local_authority_id": "5337",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7692478214,
+      "lat": 51.0911574,
+      "lon": -1.1607125,
+      "tags": {
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7804014005,
+      "lat": 51.6065002,
+      "lon": -0.1171911,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "78",
+        "addr:postcode": "N22 8NQ",
+        "addr:street": "Myddleton Road",
+        "addr:suburb": "Bowes Park",
+        "name": "Build It",
+        "phone": "+44 20 8888 8900",
+        "shop": "doityourself",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7835859851,
+      "lat": 50.4544097,
+      "lon": -4.4910103,
+      "tags": {
+        "name": "StMarysleadworks",
+        "shop": "trade",
+        "source": "gps_survey;video_survey",
+        "trade": "building_supplies",
+        "website": "https://stmarysleadworks.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8047557070,
+      "lat": 51.5500496,
+      "lon": -0.1426868,
+      "tags": {
+        "branch": "Kentish Town",
+        "email": "kentishtown@howdens.com",
+        "name": "Howdens Joinery Co.",
+        "note": "Doors, Flooring, Kitchens, Hardware & Joinery",
+        "phone": "+44 20 7267 9663",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8068684194,
+      "lat": 53.6991043,
+      "lon": -2.7086878,
+      "tags": {
+        "addr:city": "Leyland",
+        "addr:housenumber": "262",
+        "addr:postcode": "PR25 2YH",
+        "addr:street": "Golden Hill Lane",
+        "name": "C & W Berry Ltd",
+        "opening_hours": "Mo-Th 07:30-17:00;Fr 07:30-16:00;Sa 08:00-12:00",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8267501845,
+      "lat": 53.1894547,
+      "lon": -2.8644945,
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8510417188,
+      "lat": 51.5211076,
+      "lon": -0.4975337,
+      "tags": {
+        "name": "Star Hawk Builders Merchant",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8519325679,
+      "lat": 52.4760588,
+      "lon": -2.0468916,
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8642755418,
+      "lat": 53.6601808,
+      "lon": -1.5701874,
+      "tags": {
+        "addr:city": "Wakefield",
+        "addr:housename": "Quarry Hill Industrial Estate",
+        "addr:housenumber": "1a",
+        "addr:postcode": "WF4 5NF",
+        "addr:street": "Hawkingcroft Road",
+        "email": "info@habcobs.co.uk",
+        "name": "Habco Building Supplies",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa 07:30-12:00",
+        "phone": "+44 1924 272283",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "website": "https://www.habcobuildingsupplies.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8689122680,
+      "lat": 51.4107816,
+      "lon": -0.1915996,
+      "tags": {
+        "addr:postcode": "SW19 3XD",
+        "addr:street": "Jubilee Way",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "brand:wikipedia": "en:Screwfix",
+        "name": "Screwfix",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa 07:00-18:00; Su 09:00-16:00",
+        "shop": "doityourself",
+        "source": "local knowledge",
+        "trade": "building_supplies",
+        "website": "https://www.screwfix.com/jsp/tradeCounter/tradeCounterDetailsPage.jsp?id=172"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8743485609,
+      "lat": 52.5049489,
+      "lon": -0.6781617,
+      "tags": {
+        "name": "MKM Building Supplies",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8759665221,
+      "lat": 52.5056236,
+      "lon": -0.679164,
+      "tags": {
+        "name": "RB Tools & Fixings",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8759665238,
+      "lat": 52.5061798,
+      "lon": -0.6786746,
+      "tags": {
+        "name": "Eurocell",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8891745200,
+      "lat": 53.7087584,
+      "lon": -1.3364105,
+      "tags": {
+        "addr:postcode": "WF10 4TA",
+        "addr:street": "Aspen Way",
+        "addr:town": "Castleford",
+        "name": "TradePoint",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8923623473,
+      "lat": 53.4016413,
+      "lon": -2.5993664,
+      "tags": {
+        "addr:city": "Warrington",
+        "addr:housename": "Gateway 49",
+        "addr:housenumber": "Unit 24",
+        "addr:postcode": "WA2 8NT",
+        "addr:street": "Kerfoot Street",
+        "name": "Eurocell",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8933590915,
+      "lat": 51.5311502,
+      "lon": 0.019446,
+      "tags": {
+        "long_name": "Travis Perkins Timber and Building Supplies",
+        "name": "Travis Perkins",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9110759351,
+      "lat": 51.4920739,
+      "lon": 0.0512114,
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "SE18 5NQ",
+        "addr:street": "Woolwich Church Street",
+        "addr:suburb": "Woolwich",
+        "name": "StoneWorks",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9159248036,
+      "lat": 51.5501054,
+      "lon": 0.0248684,
+      "tags": {
+        "name": "Building Plumbing and DIY",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9169960338,
+      "lat": 52.6066297,
+      "lon": -0.2752729,
+      "tags": {
+        "addr:city": "Peterborough",
+        "addr:housenumber": "Unit 30",
+        "addr:postcode": "PE4 6BX",
+        "addr:street": "Mancetter Square",
+        "name": "Peterborough Improvements",
+        "payment:cash": "yes",
+        "payment:electronic_purses": "yes",
+        "phone": "+44 1733 306 022",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "website": "https://www.peterboroughimprovements.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9180774894,
+      "lat": 51.6070391,
+      "lon": -0.5601118,
+      "tags": {
+        "addr:city": "Chalfont St Peter",
+        "addr:postcode": "SL9 9RZ",
+        "addr:street": "The Vale",
+        "name": "Grant & Stone Chalfont Builders Merchants",
+        "operator": "Grant & Stone",
+        "phone": "+441753886543",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9278506337,
+      "lat": 53.3997031,
+      "lon": -2.1517753,
+      "tags": {
+        "addr:city": "Stockport",
+        "addr:housenumber": "1",
+        "addr:postcode": "SK1 3JN",
+        "addr:street": "Carrington Field Street",
+        "name": "GAP",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9358073059,
+      "lat": 51.5374507,
+      "lon": 0.030034,
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "E13 0QS",
+        "addr:street": "Plashet Road",
+        "name": "Azad Electricals",
+        "shop": "trade",
+        "source:addr": "corp. website",
+        "trade": "building_supplies",
+        "website": "https://azad.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9423629843,
+      "lat": 51.5478829,
+      "lon": -0.002528,
+      "tags": {
+        "name": "Dulux Decorator Centre",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9658578660,
+      "lat": 53.5678223,
+      "lon": -0.0790393,
+      "tags": {
+        "addr:city": "Grimsby",
+        "addr:country": "GB",
+        "addr:postcode": "DN31 1NR",
+        "addr:street": "Grime Street",
+        "name": "Buildbase Grimsby",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    }
+  ]
+}

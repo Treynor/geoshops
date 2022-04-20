@@ -1,0 +1,956 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-04-09T20:40:17Z",
+    "timestamp_areas_base": "2022-04-09T19:00:55Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 8642755418,
+      "lat": 53.6601808,
+      "lon": -1.5701874,
+      "tags": {
+        "addr:city": "Wakefield",
+        "addr:housename": "Quarry Hill Industrial Estate",
+        "addr:housenumber": "1a",
+        "addr:postcode": "WF4 5NF",
+        "addr:street": "Hawkingcroft Road",
+        "email": "info@habcobs.co.uk",
+        "name": "Habco Building Supplies",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa 07:30-12:00",
+        "phone": "+44 1924 272283",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "website": "https://www.habcobuildingsupplies.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8891745200,
+      "lat": 53.7087584,
+      "lon": -1.3364105,
+      "tags": {
+        "addr:postcode": "WF10 4TA",
+        "addr:street": "Aspen Way",
+        "addr:town": "Castleford",
+        "name": "TradePoint",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "way",
+      "id": 90721183,
+      "nodes": [
+        1052824558,
+        1052824537,
+        1052824563,
+        1052824560,
+        1052824558
+      ],
+      "tags": {
+        "addr:city": "Huddersfield",
+        "addr:country": "GB",
+        "addr:postcode": "HD2 1YD",
+        "addr:street": "Red Doles Lane",
+        "building": "commercial",
+        "fax": "+44 1484 422551",
+        "name": "Naylor Myers",
+        "phone": "+44 1484 435330",
+        "shop": "doityourself",
+        "source": "Bing",
+        "trade": "building_supplies",
+        "website": "http://www.myersgroup.co.uk/nm/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 113413440,
+      "nodes": [
+        498472178,
+        1286154830,
+        1286154848,
+        1286154812,
+        498472178
+      ],
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "building": "yes",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "way",
+      "id": 201078266,
+      "nodes": [
+        2110352555,
+        2110352633,
+        2110352603,
+        2110352526,
+        2110352555
+      ],
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "building": "yes",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "way",
+      "id": 201585013,
+      "nodes": [
+        2116087446,
+        2116087514,
+        2116087638,
+        2116087523,
+        2116087446
+      ],
+      "tags": {
+        "addr:city": "Huddersfield",
+        "addr:country": "GB",
+        "addr:postcode": "HD2 1YD",
+        "addr:street": "Red Doles Lane",
+        "building": "commercial",
+        "fax": "+44 1484 422551",
+        "name": "Naylor Myers",
+        "phone": "+44 1484 435330",
+        "shop": "doityourself",
+        "source": "Bing",
+        "trade": "building_supplies",
+        "website": "http://www.myersgroup.co.uk/nm/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 201585026,
+      "nodes": [
+        2116087423,
+        2116087534,
+        2116087510,
+        2116087457,
+        2116087423
+      ],
+      "tags": {
+        "addr:city": "Huddersfield",
+        "addr:country": "GB",
+        "addr:postcode": "HD2 1YD",
+        "addr:street": "Red Doles Lane",
+        "building": "commercial",
+        "fax": "+44 1484 422551",
+        "name": "Naylor Myers",
+        "phone": "+44 1484 435330",
+        "shop": "doityourself",
+        "source": "Bing",
+        "trade": "building_supplies",
+        "website": "http://www.myersgroup.co.uk/nm/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 201585037,
+      "nodes": [
+        2116087426,
+        2116087672,
+        2116087652,
+        2116087417,
+        2116087426
+      ],
+      "tags": {
+        "addr:city": "Huddersfield",
+        "addr:country": "GB",
+        "addr:postcode": "HD2 1YD",
+        "addr:street": "Red Doles Lane",
+        "building": "commercial",
+        "fax": "+44 1484 422551",
+        "name": "Naylor Myers",
+        "phone": "+44 1484 435330",
+        "shop": "doityourself",
+        "source": "Bing",
+        "trade": "building_supplies",
+        "website": "http://www.myersgroup.co.uk/nm/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 201585041,
+      "nodes": [
+        2116087646,
+        2116087647,
+        2116087555,
+        2116087377,
+        2116087646
+      ],
+      "tags": {
+        "addr:city": "Huddersfield",
+        "addr:country": "GB",
+        "addr:postcode": "HD2 1YD",
+        "addr:street": "Red Doles Lane",
+        "building": "commercial",
+        "fax": "+44 1484 422551",
+        "name": "Naylor Myers",
+        "phone": "+44 1484 435330",
+        "shop": "doityourself",
+        "source": "Bing",
+        "trade": "building_supplies",
+        "website": "http://www.myersgroup.co.uk/nm/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 397295159,
+      "nodes": [
+        4000986055,
+        4000986010,
+        4000986043,
+        4000986087,
+        4000986055
+      ],
+      "tags": {
+        "building": "industrial",
+        "name": "Howarth Timber & Building Supplies",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "way",
+      "id": 510694844,
+      "nodes": [
+        4996489325,
+        9545696374,
+        9545696372,
+        9545696373,
+        4996479718,
+        4996479719,
+        4996489326,
+        9545696388,
+        9545696385,
+        9545696396,
+        9545696382,
+        9545696395,
+        4996489327,
+        9545696368,
+        9545696369,
+        4996489328,
+        9545696394,
+        9545696376,
+        9545696375,
+        4996489325
+      ],
+      "tags": {
+        "addr:city": "Brighouse",
+        "addr:postcode": "HD6 1PE",
+        "addr:street": "Wakefield Road",
+        "brand": "Howarth Timber",
+        "brand:wikidata": "Q100298474",
+        "building": "no",
+        "name": "Howarth Timber",
+        "phone": "+44 330 119 2419",
+        "shop": "houseware",
+        "trade": "building_supplies",
+        "website": "https://www.howarth-timber.co.uk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 511207633,
+      "nodes": [
+        5001135827,
+        5001135828,
+        5001135829,
+        5001135830,
+        5001135831,
+        5001135832,
+        5001135827
+      ],
+      "tags": {
+        "brand": "Jewson",
+        "brand:wikidata": "Q6190226",
+        "brand:wikipedia": "en:Jewson",
+        "building": "yes",
+        "name": "Jewson",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "way",
+      "id": 774629125,
+      "nodes": [
+        7227269898,
+        7227269899,
+        8261183094,
+        7227269900,
+        7227269901,
+        7227269898
+      ],
+      "tags": {
+        "addr:city": "Castleford",
+        "addr:postcode": "WF10 5NN",
+        "addr:street": "Willowbridge Lane",
+        "building": "yes",
+        "name": "MKM",
+        "opening_hours:covid19": "closed",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "wikidata": "Q563440",
+        "wikipedia": "en:MKM"
+      }
+    },
+    {
+      "type": "way",
+      "id": 914629423,
+      "nodes": [
+        8496348383,
+        8496348384,
+        8496348385,
+        8496348386,
+        8496348383
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Buildbase",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "way",
+      "id": 928979133,
+      "nodes": [
+        8615806936,
+        8615806935,
+        317600881,
+        1045635408,
+        8615806934,
+        4574631487,
+        4574631485,
+        8615806933,
+        8615806936
+      ],
+      "tags": {
+        "name": "Farmac Building Supplies",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "website": "https://www.farmac.co.uk/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 929938348,
+      "nodes": [
+        1045577558,
+        8623735345,
+        8623735344,
+        8623735343,
+        8623735342,
+        8623735341,
+        8623735340,
+        8623735339,
+        8623735338,
+        1045577558
+      ],
+      "tags": {
+        "name": "W Madden",
+        "shop": "trade",
+        "trade": "building_supplies",
+        "website": "https://www.wmadden.co.uk/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 936189496,
+      "nodes": [
+        8674927926,
+        8674927927,
+        8674927928,
+        8674927929,
+        8674927926
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Spinks Builders Merchant",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "way",
+      "id": 975265462,
+      "nodes": [
+        9025118379,
+        9025118380,
+        9025118381,
+        9025118382,
+        9025118379
+      ],
+      "tags": {
+        "addr:city": "Castleford",
+        "addr:housenumber": "2",
+        "addr:postcode": "WF10 4SB",
+        "addr:street": "Carr Wood Road",
+        "building": "yes",
+        "name": "Eurocell",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1052824537,
+      "lat": 53.6603795,
+      "lon": -1.7705726
+    },
+    {
+      "type": "node",
+      "id": 1052824558,
+      "lat": 53.6605499,
+      "lon": -1.7703209
+    },
+    {
+      "type": "node",
+      "id": 1052824560,
+      "lat": 53.6603938,
+      "lon": -1.7700199
+    },
+    {
+      "type": "node",
+      "id": 1052824563,
+      "lat": 53.6602234,
+      "lon": -1.7702716
+    },
+    {
+      "type": "node",
+      "id": 2116087377,
+      "lat": 53.6581973,
+      "lon": -1.7710544
+    },
+    {
+      "type": "node",
+      "id": 2116087417,
+      "lat": 53.6579472,
+      "lon": -1.7706317
+    },
+    {
+      "type": "node",
+      "id": 2116087423,
+      "lat": 53.6582638,
+      "lon": -1.7720941
+    },
+    {
+      "type": "node",
+      "id": 2116087426,
+      "lat": 53.6581914,
+      "lon": -1.7702231
+    },
+    {
+      "type": "node",
+      "id": 2116087446,
+      "lat": 53.6579246,
+      "lon": -1.7708899
+    },
+    {
+      "type": "node",
+      "id": 2116087457,
+      "lat": 53.6581433,
+      "lon": -1.7717764
+    },
+    {
+      "type": "node",
+      "id": 2116087510,
+      "lat": 53.658083,
+      "lon": -1.7718416
+    },
+    {
+      "type": "node",
+      "id": 2116087514,
+      "lat": 53.6578406,
+      "lon": -1.7709609
+    },
+    {
+      "type": "node",
+      "id": 2116087523,
+      "lat": 53.6578161,
+      "lon": -1.7705246
+    },
+    {
+      "type": "node",
+      "id": 2116087534,
+      "lat": 53.6582035,
+      "lon": -1.7721592
+    },
+    {
+      "type": "node",
+      "id": 2116087555,
+      "lat": 53.6579436,
+      "lon": -1.7712725
+    },
+    {
+      "type": "node",
+      "id": 2116087638,
+      "lat": 53.6577321,
+      "lon": -1.7705957
+    },
+    {
+      "type": "node",
+      "id": 2116087646,
+      "lat": 53.6583009,
+      "lon": -1.7713975
+    },
+    {
+      "type": "node",
+      "id": 2116087647,
+      "lat": 53.6580472,
+      "lon": -1.7716156
+    },
+    {
+      "type": "node",
+      "id": 2116087652,
+      "lat": 53.6578205,
+      "lon": -1.7704163
+    },
+    {
+      "type": "node",
+      "id": 2116087672,
+      "lat": 53.6580648,
+      "lon": -1.7700076
+    },
+    {
+      "type": "node",
+      "id": 4996479718,
+      "lat": 53.7014414,
+      "lon": -1.7734984
+    },
+    {
+      "type": "node",
+      "id": 4996479719,
+      "lat": 53.7015619,
+      "lon": -1.7733082
+    },
+    {
+      "type": "node",
+      "id": 4996489325,
+      "lat": 53.7010743,
+      "lon": -1.7740782
+    },
+    {
+      "type": "node",
+      "id": 4996489326,
+      "lat": 53.7016641,
+      "lon": -1.7731468
+    },
+    {
+      "type": "node",
+      "id": 4996489327,
+      "lat": 53.7018825,
+      "lon": -1.7740965
+    },
+    {
+      "type": "node",
+      "id": 4996489328,
+      "lat": 53.7012069,
+      "lon": -1.7745975
+    },
+    {
+      "type": "node",
+      "id": 9545696368,
+      "lat": 53.7015471,
+      "lon": -1.7743511
+    },
+    {
+      "type": "node",
+      "id": 9545696369,
+      "lat": 53.701346,
+      "lon": -1.7744961
+    },
+    {
+      "type": "node",
+      "id": 9545696372,
+      "lat": 53.7011976,
+      "lon": -1.7738834
+    },
+    {
+      "type": "node",
+      "id": 9545696373,
+      "lat": 53.7013597,
+      "lon": -1.7736274
+    },
+    {
+      "type": "node",
+      "id": 9545696374,
+      "lat": 53.7011918,
+      "lon": -1.7738927
+    },
+    {
+      "type": "node",
+      "id": 9545696375,
+      "lat": 53.7007656,
+      "lon": -1.774619
+    },
+    {
+      "type": "node",
+      "id": 9545696376,
+      "lat": 53.7008093,
+      "lon": -1.7748803
+    },
+    {
+      "type": "node",
+      "id": 9545696382,
+      "lat": 53.7018351,
+      "lon": -1.7738905
+    },
+    {
+      "type": "node",
+      "id": 9545696385,
+      "lat": 53.701801,
+      "lon": -1.7737422
+    },
+    {
+      "type": "node",
+      "id": 9545696388,
+      "lat": 53.7017762,
+      "lon": -1.773634
+    },
+    {
+      "type": "node",
+      "id": 9545696394,
+      "lat": 53.7011544,
+      "lon": -1.7746349
+    },
+    {
+      "type": "node",
+      "id": 9545696395,
+      "lat": 53.701849,
+      "lon": -1.7739509
+    },
+    {
+      "type": "node",
+      "id": 9545696396,
+      "lat": 53.7018173,
+      "lon": -1.7738131
+    },
+    {
+      "type": "node",
+      "id": 4000986010,
+      "lat": 53.6732554,
+      "lon": -1.4855787
+    },
+    {
+      "type": "node",
+      "id": 4000986043,
+      "lat": 53.6734677,
+      "lon": -1.4862868
+    },
+    {
+      "type": "node",
+      "id": 4000986055,
+      "lat": 53.6735487,
+      "lon": -1.4853281
+    },
+    {
+      "type": "node",
+      "id": 4000986087,
+      "lat": 53.673761,
+      "lon": -1.4860362
+    },
+    {
+      "type": "node",
+      "id": 8496348383,
+      "lat": 53.5931482,
+      "lon": -1.3239392
+    },
+    {
+      "type": "node",
+      "id": 8496348384,
+      "lat": 53.5928206,
+      "lon": -1.3239872
+    },
+    {
+      "type": "node",
+      "id": 8496348385,
+      "lat": 53.5928045,
+      "lon": -1.3236759
+    },
+    {
+      "type": "node",
+      "id": 8496348386,
+      "lat": 53.5931321,
+      "lon": -1.3236277
+    },
+    {
+      "type": "node",
+      "id": 317600881,
+      "lat": 53.804759,
+      "lon": -1.6539769
+    },
+    {
+      "type": "node",
+      "id": 1045635408,
+      "lat": 53.8043824,
+      "lon": -1.6538837
+    },
+    {
+      "type": "node",
+      "id": 4574631485,
+      "lat": 53.8042523,
+      "lon": -1.6550293
+    },
+    {
+      "type": "node",
+      "id": 4574631487,
+      "lat": 53.8042081,
+      "lon": -1.6547604
+    },
+    {
+      "type": "node",
+      "id": 8615806933,
+      "lat": 53.804283,
+      "lon": -1.6551778
+    },
+    {
+      "type": "node",
+      "id": 8615806934,
+      "lat": 53.8040564,
+      "lon": -1.653894
+    },
+    {
+      "type": "node",
+      "id": 8615806935,
+      "lat": 53.804836,
+      "lon": -1.6540328
+    },
+    {
+      "type": "node",
+      "id": 8615806936,
+      "lat": 53.8046964,
+      "lon": -1.6553065
+    },
+    {
+      "type": "node",
+      "id": 1045577558,
+      "lat": 53.8059376,
+      "lon": -1.6461746
+    },
+    {
+      "type": "node",
+      "id": 8623735338,
+      "lat": 53.8055782,
+      "lon": -1.6475953
+    },
+    {
+      "type": "node",
+      "id": 8623735339,
+      "lat": 53.8053306,
+      "lon": -1.6474022
+    },
+    {
+      "type": "node",
+      "id": 8623735340,
+      "lat": 53.8053649,
+      "lon": -1.6472451
+    },
+    {
+      "type": "node",
+      "id": 8623735341,
+      "lat": 53.8054155,
+      "lon": -1.6472223
+    },
+    {
+      "type": "node",
+      "id": 8623735342,
+      "lat": 53.8055763,
+      "lon": -1.6466081
+    },
+    {
+      "type": "node",
+      "id": 8623735343,
+      "lat": 53.8052033,
+      "lon": -1.6463211
+    },
+    {
+      "type": "node",
+      "id": 8623735345,
+      "lat": 53.8062061,
+      "lon": -1.6452702
+    },
+    {
+      "type": "node",
+      "id": 8623735344,
+      "lat": 53.8056214,
+      "lon": -1.6448553
+    },
+    {
+      "type": "node",
+      "id": 498472178,
+      "lat": 53.7721696,
+      "lon": -1.5792605
+    },
+    {
+      "type": "node",
+      "id": 1286154812,
+      "lat": 53.7719529,
+      "lon": -1.5791564
+    },
+    {
+      "type": "node",
+      "id": 1286154830,
+      "lat": 53.7722075,
+      "lon": -1.5790346
+    },
+    {
+      "type": "node",
+      "id": 1286154848,
+      "lat": 53.7719908,
+      "lon": -1.5789304
+    },
+    {
+      "type": "node",
+      "id": 2110352526,
+      "lat": 53.7800766,
+      "lon": -1.521817
+    },
+    {
+      "type": "node",
+      "id": 2110352555,
+      "lat": 53.7802098,
+      "lon": -1.5221174
+    },
+    {
+      "type": "node",
+      "id": 2110352603,
+      "lat": 53.7806277,
+      "lon": -1.5211169
+    },
+    {
+      "type": "node",
+      "id": 2110352633,
+      "lat": 53.7807609,
+      "lon": -1.5214172
+    },
+    {
+      "type": "node",
+      "id": 8674927926,
+      "lat": 53.8100611,
+      "lon": -1.5395492
+    },
+    {
+      "type": "node",
+      "id": 8674927927,
+      "lat": 53.8098481,
+      "lon": -1.5392439
+    },
+    {
+      "type": "node",
+      "id": 8674927928,
+      "lat": 53.810144,
+      "lon": -1.5386438
+    },
+    {
+      "type": "node",
+      "id": 8674927929,
+      "lat": 53.810363,
+      "lon": -1.5389579
+    },
+    {
+      "type": "node",
+      "id": 7227269898,
+      "lat": 53.7178844,
+      "lon": -1.3793631
+    },
+    {
+      "type": "node",
+      "id": 7227269899,
+      "lat": 53.7180153,
+      "lon": -1.3790904
+    },
+    {
+      "type": "node",
+      "id": 7227269900,
+      "lat": 53.7177184,
+      "lon": -1.3786835
+    },
+    {
+      "type": "node",
+      "id": 7227269901,
+      "lat": 53.7175876,
+      "lon": -1.3789561
+    },
+    {
+      "type": "node",
+      "id": 8261183094,
+      "lat": 53.7177884,
+      "lon": -1.3787795
+    },
+    {
+      "type": "node",
+      "id": 5001135827,
+      "lat": 53.714307,
+      "lon": -1.3371091
+    },
+    {
+      "type": "node",
+      "id": 5001135831,
+      "lat": 53.7142179,
+      "lon": -1.3369973
+    },
+    {
+      "type": "node",
+      "id": 5001135832,
+      "lat": 53.7142311,
+      "lon": -1.3369759
+    },
+    {
+      "type": "node",
+      "id": 5001135828,
+      "lat": 53.7149653,
+      "lon": -1.3360379
+    },
+    {
+      "type": "node",
+      "id": 5001135829,
+      "lat": 53.7148445,
+      "lon": -1.3358259
+    },
+    {
+      "type": "node",
+      "id": 5001135830,
+      "lat": 53.714173,
+      "lon": -1.3369185
+    },
+    {
+      "type": "node",
+      "id": 9025118379,
+      "lat": 53.7118794,
+      "lon": -1.334923
+    },
+    {
+      "type": "node",
+      "id": 9025118380,
+      "lat": 53.7116639,
+      "lon": -1.3348131
+    },
+    {
+      "type": "node",
+      "id": 9025118381,
+      "lat": 53.7116131,
+      "lon": -1.3350979
+    },
+    {
+      "type": "node",
+      "id": 9025118382,
+      "lat": 53.7118286,
+      "lon": -1.3352078
+    }
+  ]
+}
